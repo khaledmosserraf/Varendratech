@@ -1,0 +1,39 @@
+
+*{
+    margin: 0px;
+}
+
+
+.header1{
+    display: inline-block;
+    background-image: url("/assets/images/home-design-agency-bg-img-01.jpg");
+    height:750px; 
+    width: 1600px; 
+    
+}
+
+button{
+    background-color: chocolate;    
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+.hed2{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+
+.hed3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    line-height: 1em;
+    margin-bottom: 50px;
+
+}
