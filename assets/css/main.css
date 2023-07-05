@@ -1,16 +1,37 @@
 
 *{
     margin: 0px;
+    box-sizing: border-box;
 }
+nav {
+    float: left;
+    width: 80%;
+    height: 90px ;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px ;
+    font-weight: 500px;
+  }
 
+  nav li{
+    list-style-type: none;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    
+  }
 
 .header1{
     display: inline-block;
     background-image: url("/assets/images/home-design-agency-bg-img-01.jpg");
     height:750px; 
     width: 1600px; 
-    
+    margin-top: -100px;
 }
+
 
 button{
     background-color: chocolate;    
